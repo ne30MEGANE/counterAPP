@@ -1,0 +1,19 @@
+{
+    "id": "counter",
+    "name": "シンプルカウンター",
+    "icon": "none",
+    "version": "1",
+    "author": "megane",
+    "support": {
+        "darkmode": true,
+        "resize": false,
+        "fullscreen": false
+    },
+    "size": {
+        "width": "auto",
+        "height": "auto"
+    },
+    "view": "default.html",
+    "script": "counter.js",
+    "css": "none"
+}
