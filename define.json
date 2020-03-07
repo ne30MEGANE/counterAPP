@@ -1,7 +1,7 @@
 {
     "id": "counter",
     "name": "シンプルカウンター",
-    "icon": "none",
+    "icon": "counter.png",
     "version": "1",
     "author": "megane",
     "support": {
