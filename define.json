@@ -15,5 +15,5 @@
     },
     "view": "default.html",
     "script": "counter.js",
-    "css": "none"
+    "css": "counter.css"
 }
